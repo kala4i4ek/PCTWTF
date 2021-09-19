@@ -9,7 +9,7 @@ int main()
 	cin >> a;
 	cout << "Enter the number of lines: ";
 	cin >> b;
-	cout << "Enter the number of symbol: ";
+	cout << "Enter the number of symbol in line: ";
 	cin >> c;
 	cout << "Enter the calculus of one character in bits: ";
 	cin >> d;
